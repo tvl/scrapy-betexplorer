@@ -1,0 +1,138 @@
+fts,updated,id,home_team,away_team,kick_off,score,odd1,oddX,odd2,area_name,competition_name,datetime
+"(0:1, 0:0)",2017-06-07 11:17:54.453424,0,Quilmes,Patronato,00:00,0:1,,,,Argentina, Primera Division,2017-06-06 00:00:00
+"(1:0, 2:0)",2017-06-07 11:17:54.455897,0,Aparecidense,Uniao Rondonopolis,00:30,3:0,,,,Brazil, Série D,2017-06-06 00:30:00
+"(2:0, 1:0)",2017-06-07 11:17:54.457438,0,Bahia,Atletico GO,01:00,3:0,,,,Brazil, Série A,2017-06-06 01:00:00
+"(0:0, 2:0)",2017-06-07 11:17:54.458936,0,Trem,Princesa Solimoes,01:30,2:0,,,,Brazil, Série D,2017-06-06 01:30:00
+"(0:0, 0:0)",2017-06-07 11:17:54.460439,0,Boston River,Penarol,01:30,0:0,,,,Uruguay, Primera Division,2017-06-06 01:30:00
+"(0:0, 0:1)",2017-06-07 11:17:54.461916,0,Confianca,Remo,02:00,0:1,,,,Brazil, Série C,2017-06-06 02:00:00
+"(1:1, 1:0, 3:4)",2017-06-07 11:17:54.463413,0,Quindio,Real Santander,02:00,2:2 ,,,,Colombia, Torneo Aguila,2017-06-06 02:00:00
+"(1:0, 2:0)",2017-06-07 11:17:54.464802,0,Argentinos Jrs,Boca Unidos,02:05,3:0,,,,Argentina, Primera B Nacional,2017-06-06 02:05:00
+"(1:1, 0:0)",2017-06-07 11:17:54.466231,0,Racing Club,Aldosivi,02:15,1:1,,,,Argentina, Primera Division,2017-06-06 02:15:00
+"(0:1, 2:0)",2017-06-07 11:17:54.467688,0,Arnett Gardens,Portmore,03:30,2:1,,,,Jamaica, Premier League,2017-06-06 03:30:00
+"(0:0, 0:2)",2017-06-07 11:17:54.469172,0,Jeju Utd,Suwon Bluewings,12:00,0:2,,,,South Korea, Korean Cup,2017-06-06 12:00:00
+ ,2017-06-07 11:17:54.470619,0,Rayong FC,Thai Honda FC,12:00,CAN.,,,,World, Club Friendly,2017-06-06 12:00:00
+"(0:0, 1:1, 0:0, 6:5)",2017-06-07 11:17:54.472121,0,Landvetter,Assyriska BK,13:00,2:1 ,,,,Sweden, Svenska Cupen,2017-06-06 13:00:00
+"(0:0, 0:0)",2017-06-07 11:17:54.473545,0,La Cure Sylvester,Port Louis,13:30,0:0,,,,Mauritius, Mauritian League,2017-06-06 13:30:00
+"(2:0, 0:2)",2017-06-07 11:17:54.474970,0,Habo,Stromsbergs,13:30,2:2,,,,Sweden, Division 2 - Norra Svealand,2017-06-06 13:30:00
+"(1:0, 1:1)",2017-06-07 11:17:54.476380,0,Hlucin U19,Sigma Olomouc U19,14:00,2:1,,,,Czech Republic, U19 League,2017-06-06 14:00:00
+"(2:0, 4:0)",2017-06-07 11:17:54.477738,0,Orebro Syr.,Boo FF,14:00,6:0,,,,Sweden, Division 2 - Södra Svealand,2017-06-06 14:00:00
+"(0:0, 1:0)",2017-06-07 11:17:54.479112,0,Finland U21,Slovenia U21,14:00,1:0,,,,World, Friendly International,2017-06-06 14:00:00
+ ,2017-06-07 11:17:54.480979,0,Tenhults,Varbergs GIF,15:00,1:0,,,,Sweden, Division 2 - Västra Götaland,2017-06-06 15:00:00
+"(4:1, 1:0)",2017-06-07 11:17:54.482340,0,Umea W,Holmalunds W,15:00,5:1,,,,Sweden, Elitettan Women,2017-06-06 15:00:00
+"(0:0, 1:1)",2017-06-07 11:17:54.484217,0,Al Shorta,Al Jazira,15:00,1:1,,,,Syria, Premier League,2017-06-06 15:00:00
+"(0:0, 1:1)",2017-06-07 11:17:54.485586,0,Singapore,Myanmar,15:00,1:1,,,,World, Friendly International,2017-06-06 15:00:00
+"(0:0, 0:0)",2017-06-07 11:17:54.486985,0,Simba,Nakuru AllStars,15:00,0:0,,,,World, Club Friendly,2017-06-06 15:00:00
+"(1:1, 0:0)",2017-06-07 11:17:54.488812,0,Malaysia U23,Felda Utd.,15:30,1:1,,,,World, Friendly International,2017-06-06 15:30:00
+"(1:0, 1:0)",2017-06-07 11:17:54.490112,0,Sumy,Balkany Zorya,16:00,2:0,,,,Ukraine, Division 2,2017-06-06 16:00:00
+"(2:0, 2:0)",2017-06-07 11:17:54.491432,0,Odra Petrkovice,Zlin B,16:30,4:0,,,,Czech Republic, MSFL,2017-06-06 16:30:00
+"(0:0, 2:0)",2017-06-07 11:17:54.493213,0,Uzbekistan,Thailand,17:00,2:0,,,,World, Friendly International,2017-06-06 17:00:00
+"(1:1, 0:1)",2017-06-07 11:17:54.494527,0,Indonesia U19,Scotland U20,17:00,1:2,,,,World, Toulon Tournament,2017-06-06 17:00:00
+"(0:1, 0:1)",2017-06-07 11:17:54.495856,0,Albania W,Slovenia W,17:00,0:2,,,,World, Friendly International Women,2017-06-06 17:00:00
+ ,2017-06-07 11:17:54.497191,0,Jeunesse Club,SO Armee,17:30,0:2,,,,Ivory Coast, Ligue 1,2017-06-06 17:30:00
+"(2:0, 1:1)",2017-06-07 11:17:54.498503,0,Uddevalla,Skoftebyns,18:00,3:1,,,,Sweden, Division 2 - Norra Götaland,2017-06-06 18:00:00
+"(1:1, 1:1)",2017-06-07 11:17:54.499791,0,Bosnia & Herzegovina W,Croatia W,18:00,2:2,,,,World, Friendly International Women,2017-06-06 18:00:00
+,2017-06-07 11:17:54.501028,0,Salif Keita,AS Nianan,18:30,,2.50,3.00,2.65,Mali, Premiere Division,2017-06-06 18:30:00
+"(0:0, 1:1)",2017-06-07 11:17:54.503252,0,Israel,Moldova,19:30,1:1,,,,World, Friendly International,2017-06-06 19:30:00
+"(0:0, 0:0)",2017-06-07 11:17:54.504498,0,Brazil U20,Czech Republic U19,19:30,0:0,,,,World, Toulon Tournament,2017-06-06 19:30:00
+"(0:0, 1:0, 4:1)",2017-06-07 11:17:54.505743,0,Defensores Belgrano VR,Gutierrez Mendoza,20:00,2:0 ,,,,Argentina, Torneo Federal A,2017-06-06 20:00:00
+"(0:1, 0:4)",2017-06-07 11:17:54.506973,0,Sindri,Vestri,20:00,0:5,,,,Iceland, Division 2,2017-06-06 20:00:00
+"(0:0, 2:1)",2017-06-07 11:17:54.508235,0,Argentino de Quilmes,San Martin Burzaco,20:30,2:1,,,,Argentina, Primera C Metropolitana,2017-06-06 20:30:00
+"(0:1, 1:0)",2017-06-07 11:17:54.510361,0,Victoriano A.,Central Ballester,20:30,1:1,,,,Argentina, Primera D Metropolitana,2017-06-06 20:30:00
+,2017-06-07 11:17:54.511624,0,USFAS Bamako,Real Bamako,20:30,,2.60,2.70,2.80,Mali, Premiere Division,2017-06-06 20:30:00
+"(1:0, 1:1)",2017-06-07 11:17:54.514097,0,Algeria,Guinea,23:00,2:1,,,,World, Friendly International,2017-06-06 23:00:00
+,2017-06-07 11:17:54.514850,,,,,,,,,Brazil, Série B,
+,2017-06-07 11:17:54.515489,,,,,,,,,Brazil, Série A,
+,2017-06-07 11:17:54.516111,,,,,,,,,Argentina, Primera B Metropolitana,
+,2017-06-07 11:17:54.516745,,,,,,,,,Brazil, Série B,
+,2017-06-07 11:17:54.517370,,,,,,,,,USA, USL,
+,2017-06-07 11:17:54.518023,,,,,,,,,World, World Cup,
+,2017-06-07 11:17:54.518690,,,,,,,,,Czech Republic, U19 League,
+,2017-06-07 11:17:54.519353,,,,,,,,,World, Friendly International,
+,2017-06-07 11:17:54.519978,,,,,,,,,Czech Republic, U19 League,
+,2017-06-07 11:17:54.520624,,,,,,,,,Mauritius, Mauritian League,
+,2017-06-07 11:17:54.521262,,,,,,,,,World, Friendly International,
+,2017-06-07 11:17:54.521875,,,,,,,,,South Africa, First Division,
+,2017-06-07 11:17:54.522495,,,,,,,,,Indonesia, Liga 1,
+,2017-06-07 11:17:54.523107,,,,,,,,,Mauritius, Mauritian League,
+,2017-06-07 11:17:54.523724,,,,,,,,,Cameroon, Elite One,
+,2017-06-07 11:17:54.524315,,,,,,,,,Europe, Euro U19 Women,
+,2017-06-07 11:17:54.524904,,,,,,,,,World, Friendly International Women,
+,2017-06-07 11:17:54.525491,,,,,,,,,Czech Republic, CFL,
+,2017-06-07 11:17:54.526079,,,,,,,,,Czech Republic, MSFL,
+,2017-06-07 11:17:54.526663,,,,,,,,,FYR of Macedonia, First League,
+,2017-06-07 11:17:54.527286,,,,,,,,,Nigeria, Premier League,
+,2017-06-07 11:17:54.527903,,,,,,,,,Slovakia, Divison C West,
+,2017-06-07 11:17:54.528534,,,,,,,,,World, Friendly International,
+,2017-06-07 11:17:54.529142,,,,,,,,,Finland, Ykkonen,
+,2017-06-07 11:17:54.529737,,,,,,,,,Poland, III Liga - Group IV,
+,2017-06-07 11:17:54.530347,,,,,,,,,Algeria, Division 1,
+,2017-06-07 11:17:54.530938,,,,,,,,,Czech Republic, MSFL,
+,2017-06-07 11:17:54.531539,,,,,,,,,Europe, Euro U21,
+,2017-06-07 11:17:54.532124,,,,,,,,,Europe, Euro U19 Women,
+,2017-06-07 11:17:54.532713,,,,,,,,,Germany, Oberliga Play Offs,
+,2017-06-07 11:17:54.533300,,,,,,,,,Italy, Primavera - Final Stage,
+,2017-06-07 11:17:54.533892,,,,,,,,,Poland, III Liga - Group III,
+,2017-06-07 11:17:54.534481,,,,,,,,,Poland, III Liga - Group IV,
+,2017-06-07 11:17:54.535070,,,,,,,,,World, Friendly International,
+,2017-06-07 11:17:54.535658,,,,,,,,,World, Club Friendly,
+,2017-06-07 11:17:54.536221,,,,,,,,,Austria, Regionalliga Central,
+,2017-06-07 11:17:54.536790,,,,,,,,,Sweden, Svenska Cupen,
+,2017-06-07 11:17:54.537357,,,,,,,,,World, Friendly International,
+,2017-06-07 11:17:54.537927,,,,,,,,,Croatia, 1. HNL,
+,2017-06-07 11:17:54.538495,,,,,,,,,Sweden, Svenska Cupen,
+,2017-06-07 11:17:54.539089,,,,,,,,,Switzerland, 1.Liga Classic Play Offs,
+,2017-06-07 11:17:54.539680,,,,,,,,,Argentina, Copa Argentina,
+,2017-06-07 11:17:54.540259,,,,,,,,,World, Friendly International,
+,2017-06-07 11:17:54.540828,,,,,,,,,Iceland, Inkasso-deildin,
+,2017-06-07 11:17:54.541398,,,,,,,,,World, Friendly International,
+,2017-06-07 11:17:54.541963,,,,,,,,,Ecuador, Serie A,
+,2017-06-07 11:17:54.542529,,,,,,,,,Argentina, Copa Argentina,
+,2017-06-07 11:17:54.543137,,,,,,,,,Algeria, Division 1,
+,2017-06-07 11:17:54.543720,,,,,,,,,Brazil, Série A,
+,2017-06-07 11:17:54.544294,,,,,,,,,USA, North American Soccer League,
+,2017-06-07 11:17:54.544870,,,,,,,,,USA, USL,
+,2017-06-07 11:17:54.545436,,,,,,,,,Brazil, Campeonato Maranhense,
+,2017-06-07 11:17:54.546006,,,,,,,,,Brazil, Série A,
+,2017-06-07 11:17:54.546575,,,,,,,,,Colombia, Liga Aguila,
+,2017-06-07 11:17:54.547141,,,,,,,,,Argentina, Copa Argentina,
+,2017-06-07 11:17:54.547711,,,,,,,,,Brazil, Série A,
+,2017-06-07 11:17:54.548258,,,,,,,,,USA, USL,
+,2017-06-07 11:17:54.549240,0,Uruguay U20,Venezuela U20,10:00,,2.61,2.92,2.79,World, World Cup U20,2017-06-08 10:00:00
+,2017-06-07 11:17:54.550408,0,Australia,Saudi Arabia,12:00,,1.40,4.45,7.48,World, World Cup,2017-06-08 12:00:00
+,2017-06-07 11:17:54.551571,0,Italy U20,England U20,13:00,,2.86,2.96,2.52,World, World Cup U20,2017-06-08 13:00:00
+,2017-06-07 11:17:54.552715,0,Cambodia,Indonesia,13:30,,6.72,5.34,1.35,World, Friendly International,2017-06-08 13:30:00
+,2017-06-07 11:17:54.554256,0,Semen Padang,PSM Makassar,15:30,,1.72,3.45,4.03,Indonesia, Liga 1,2017-06-08 15:30:00
+,2017-06-07 11:17:54.555814,0,Lithuania U21,Faroe Islands U21,17:00,,1.34,4.74,7.34,Europe, Euro U21,2017-06-08 17:00:00
+,2017-06-07 11:17:54.556967,0,England U20 B,Scotland U20,17:00,,1.68,3.59,4.09,World, Toulon Tournament,2017-06-08 17:00:00
+,2017-06-07 11:17:54.558100,0,Portugal W,Wales W,17:00,,2.08,3.33,3.01,World, Friendly International Women,2017-06-08 17:00:00
+,2017-06-07 11:17:54.559255,0,Mikkeli,Mikkelin Kissat,17:30,,1.72,3.96,3.53,Finland, Kakkonen Group A,2017-06-08 17:30:00
+,2017-06-07 11:17:54.560351,0,PK-37,Kajaanin Haka,17:30,,1.63,3.95,4.00,Finland, Kakkonen Group C,2017-06-08 17:30:00
+,2017-06-07 11:17:54.561476,0,Bulgaria U21,Georgia U21,17:30,,2.25,3.30,2.75,World, Friendly International,2017-06-08 17:30:00
+,2017-06-07 11:17:54.562881,0,Wakirya,CO Coyah,18:00,,,,,Guinea, Ligue 1,2017-06-08 18:00:00
+,2017-06-07 11:17:54.563885,0,Aschaffenburg,Furth II,18:30,,,,,Germany, Regionalliga Bayern,2017-06-08 18:30:00
+,2017-06-07 11:17:54.564937,0,Kralova,Devinska N. Ves,18:30,,,,,Slovakia, Divison C Bratislava,2017-06-08 18:30:00
+,2017-06-07 11:17:54.565984,0,Tvaakers,Eskilsminne,19:00,,1.84,3.98,3.11,Sweden, Division 2 - Västra Götaland,2017-06-08 19:00:00
+,2017-06-07 11:17:54.567094,0,Boljan W,Vaxjo DFF W,19:00,,15.00,8.00,1.10,Sweden, Elitettan Women,2017-06-08 19:00:00
+,2017-06-07 11:17:54.568200,0,Czech Republic U21,Azerbaijan U21,19:30,,1.24,5.33,8.67,World, Friendly International,2017-06-08 19:30:00
+,2017-06-07 11:17:54.569287,0,Ivory Coast U20,Czech Republic U19,19:30,,2.44,3.28,2.49,World, Toulon Tournament,2017-06-08 19:30:00
+,2017-06-07 11:17:54.570369,0,Sweden W,USA W,19:30,,4.95,3.63,1.58,World, Friendly International Women,2017-06-08 19:30:00
+,2017-06-07 11:17:54.571486,0,Olimpo Bahia Blanca,Ferro,19:45,,2.32,2.84,3.14,Argentina, Copa Argentina,2017-06-08 19:45:00
+,2017-06-07 11:17:54.572565,0,Fram,Thor Akureyri,20:00,,1.72,3.57,3.95,Iceland, Inkasso-deildin,2017-06-08 20:00:00
+,2017-06-07 11:17:54.573639,0,Austria U21,Gibraltar U21,20:30,,1.01,16.92,37.25,Europe, Euro U21,2017-06-08 20:30:00
+,2017-06-07 11:17:54.574702,0,Benevento,Carpi,20:30,,2.32,3.01,3.16,Italy, Serie B,2017-06-08 20:30:00
+,2017-06-07 11:17:54.575754,0,Ireland W,Iceland W,20:30,,4.41,3.63,1.64,World, Friendly International Women,2017-06-08 20:30:00
+,2017-06-07 11:17:54.576802,0,Inter U19,AS Roma U19,20:45,,2.02,3.73,2.86,Italy, Primavera - Final Stage,2017-06-08 20:45:00
+,2017-06-07 11:17:54.577840,0,France U21,Cameroon U21,21:00,,1.36,4.75,6.00,World, Friendly International,2017-06-08 21:00:00
+,2017-06-07 11:17:54.579268,0,Kopavogur,Throttur,21:15,,3.48,3.68,1.79,Iceland, Inkasso-deildin,2017-06-08 21:15:00
+,2017-06-07 11:17:54.580323,0,Lanus,Sportivo Barracas,22:00,,1.12,7.32,14.37,Argentina, Copa Argentina,2017-06-08 22:00:00
+,2017-06-07 11:17:54.581744,0,Sao Paulo,Vitoria,00:30,,1.48,3.91,6.74,Brazil, Série A,2017-06-09 00:30:00
+,2017-06-07 11:17:54.582916,0,Peru,Paraguay,00:30,,1.79,3.53,4.25,World, Friendly International,2017-06-09 00:30:00
+,2017-06-07 11:17:54.583969,0,Chico,Real Santander,00:45,,1.84,3.09,4.05,Colombia, Torneo Aguila,2017-06-09 00:45:00
+,2017-06-07 11:17:54.584980,0,Chapecoense-SC,Gremio,01:00,,2.58,3.01,2.77,Brazil, Série A,2017-06-09 01:00:00
+,2017-06-07 11:17:54.585992,0,Atl. Tucuman,All Boys,01:05,,2.19,3.00,3.24,Argentina, Copa Argentina,2017-06-09 01:05:00
+,2017-06-07 11:17:54.586998,0,Central Cordoba,Chacarita Juniors,02:00,,,,,Argentina, Primera B Nacional,2017-06-09 02:00:00
+,2017-06-07 11:17:54.587966,0,Bahia,Cruzeiro,02:00,,2.42,3.09,2.89,Brazil, Série A,2017-06-09 02:00:00
+,2017-06-07 11:17:54.589013,0,USA,Trinidad & Tobago,02:00,,1.12,7.58,18.27,World, World Cup,2017-06-09 02:00:00
+,2017-06-07 11:17:54.590086,0,Ecuador,Venezuela,02:30,,1.98,3.45,3.57,World, Friendly International,2017-06-09 02:30:00
+,2017-06-07 11:17:54.591112,0,America De Cali,Dep. Cali,03:00,,2.42,2.98,2.75,Colombia, Liga Aguila,2017-06-09 03:00:00
+,2017-06-07 11:17:54.592909,0,Solomon Islands,Papua New Guinea,06:00,,2.28,3.33,2.81,World, World Cup,2017-06-09 06:00:00
