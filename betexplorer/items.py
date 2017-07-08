@@ -12,6 +12,26 @@ class BetexplorerItem(Item):
     # name = scrapy.Field()
     pass
 
+class Odds(Item):
+    id = Field()
+    datetime = Field()
+    #area_id = Field()
+    area_name = Field()
+    #competition_id = Field()
+    competition_name = Field()
+    #home_team_id = Field()
+    home_team = Field()
+    #away_team_id = Field()
+    away_team = Field()
+    kick_off = Field()
+    #score = Field()
+    #fts = Field()
+    home = Field()
+    draw = Field()
+    away = Field()
+    updated = Field()
+
+
 class Match(Item):
     id = Field()
     datetime = Field()
