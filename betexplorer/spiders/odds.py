@@ -17,7 +17,7 @@ class OddsSpider(Spider):
     def start_requests(self):
         start_url = 'http://www.betexplorer.com/odds-filter/soccer/?rangeFrom=1&rangeTo=999&days=14'
         request = Request(url=start_url, callback=self.parse)
-        #request.meta['proxy'] = 'http://127.0.0.1:8118'
+        request.meta['proxy'] = 'http://127.0.0.1:8118'
         yield request
 
     def parse(self, response):
