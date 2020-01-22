@@ -6,8 +6,8 @@ from datetime import datetime, date
 
 class OddsSpider(Spider):
     name = "odds"
-    allowed_domains = ["http://www.betexplorer.com"]
-    start_urls = ['http://www.betexplorer.com/next/soccer/']
+    allowed_domains = ["https://www.betexplorer.com"]
+    start_urls = ['https://www.betexplorer.com/next/soccer/']
     params = {
         "sport": "soccer",
         "page": "match",
@@ -15,7 +15,7 @@ class OddsSpider(Spider):
         "localization_id": "www"
     }
     def start_requests(self):
-        start_url = 'http://www.betexplorer.com/odds-filter/soccer/?rangeFrom=1&rangeTo=999&days=14'
+        start_url = 'https://www.betexplorer.com/odds-filter/soccer/?rangeFrom=1&rangeTo=999&days=14'
         request = Request(url=start_url, callback=self.parse)
         request.meta['proxy'] = 'http://127.0.0.1:8118'
         yield request
